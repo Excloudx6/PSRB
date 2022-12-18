@@ -1,5 +1,5 @@
 {
   "license": true,
-  "reinstall": false,
+  "reinstall": true,
   "recovery": false
 }
