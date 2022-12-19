@@ -1,6 +1,6 @@
 {
   "license": true,
-  "reinstall": true,
+  "reinstall": false,
   "recovery": false,
   "sync": 300
 }
